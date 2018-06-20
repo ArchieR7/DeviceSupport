@@ -2,6 +2,12 @@
 
 This repository will provide all platforms of **DeviceSupport** from **Xcode-Beta**.
 
+# Xcode version
+Jun 19, 2018
+Xcode 10 beta 2 - 10L177m
+
+# platforms
+
 - tvOS
 	- tvOS 9.0
 	- tvOS 9.1
@@ -14,7 +20,7 @@ This repository will provide all platforms of **DeviceSupport** from **Xcode-Bet
 	- tvOS 11.2
 	- tvOS 11.3
 	- tvOS 11.4
-	- tvOS 12.0 (16J5283n)
+	- tvOS 12.0 (16J5303d)
 
 - iOS
 	- iOS 8.0
@@ -35,7 +41,7 @@ This repository will provide all platforms of **DeviceSupport** from **Xcode-Bet
 	- iOS 11.2
 	- iOS 11.3
 	- iOS 11.4
-	- iOS 12.0 (16A5288q)
+	- iOS 12.0 (16A5308d)
 
 - watchOS
 	- watchOS 2.0
@@ -48,4 +54,4 @@ This repository will provide all platforms of **DeviceSupport** from **Xcode-Bet
 	- watchOS 4.1
 	- watchOS 4.2
 	- watchOS 4.3
-	- watchOS 5.0 (16R5283q)
+	- watchOS 5.0 (16R5303d)
