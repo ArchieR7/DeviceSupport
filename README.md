@@ -3,8 +3,8 @@
 This repository will provide all platforms of **DeviceSupport** from **Xcode-Beta**.
 
 # Xcode version
-Jul 30, 2018
-Xcode 10 beta 5 - 10L221o
+Aug 13, 2018
+Xcode 10 beta 6 - 10L232m
 
 # platforms
 
@@ -24,6 +24,7 @@ Xcode 10 beta 5 - 10L221o
 	- [tvOS 12.0 (16J5313d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.0%20(16J5313d))
 	- [tvOS 12.0 (16J5322d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.0%20(16J5322d))
 	- [tvOS 12.0 (16J5334d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.0%20(16J5334d))	
+	- [tvOS 12.0 (16J5334d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.0%20(16J5349a))	
 
 - iOS
 	- [iOS 8.0](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/8.0)
@@ -48,6 +49,7 @@ Xcode 10 beta 5 - 10L221o
 	- [iOS 12.0 (16A5318d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.0%20(16A5318d))
 	- [iOS 12.0 (16A5327d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.0%20(16A5327d))
 	- [iOS 12.0 (16A5339e)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.0%20(16A5339e))
+	- [iOS 12.0 (16A5339e)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.0%20(16A5354b))
 
 - watchOS
 	- [watchOS 2.0](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/2.0)
@@ -64,3 +66,4 @@ Xcode 10 beta 5 - 10L221o
 	- [watchOS 5.0 (16R5313d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.0%20(16R5313d))
 	- [watchOS 5.0 (16R5322d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.0%20(16R5322d))
 	- [watchOS 5.0 (16R5334e)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.0%20(16R5334e))
+	- [watchOS 5.0 (16R5334e)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.0%20(16R5349a))
