@@ -3,8 +3,8 @@
 This repository will provide all platforms of **DeviceSupport** from **Xcode-Beta**.
 
 # Xcode version
-Aug 13, 2018
-Xcode 10 beta 6 - 10L232m
+Sep 18, 2018
+Xcode 10.1 beta - 10O23u
 
 # platforms
 
@@ -25,7 +25,7 @@ Xcode 10 beta 6 - 10L232m
 	- [tvOS 12.0 (16J5322d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.0%20(16J5322d))
 	- [tvOS 12.0 (16J5334d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.0%20(16J5334d))	
 	- [tvOS 12.0 (16J5349a)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.0%20(16J5349a))	
-
+	- [tvOS 12.1 (16J5575c)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.1%20(16J5575c))	
 - iOS
 	- [iOS 8.0](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/8.0)
 	- [iOS 8.1](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/8.1)
@@ -50,6 +50,8 @@ Xcode 10 beta 6 - 10L232m
 	- [iOS 12.0 (16A5327d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.0%20(16A5327d))
 	- [iOS 12.0 (16A5339e)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.0%20(16A5339e))
 	- [iOS 12.0 (16A5354b)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.0%20(16A5354b))
+	- [iOS 12.1 (16B5059d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.1%20(16B5059d))
+
 
 - watchOS
 	- [watchOS 2.0](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/2.0)
@@ -67,3 +69,5 @@ Xcode 10 beta 6 - 10L232m
 	- [watchOS 5.0 (16R5322d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.0%20(16R5322d))
 	- [watchOS 5.0 (16R5334e)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.0%20(16R5334e))
 	- [watchOS 5.0 (16R5349a)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.0%20(16R5349a))
+	- [watchOS 5.1 (16R5559d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.1%20(16R5559d))
+
