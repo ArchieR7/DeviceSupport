@@ -3,8 +3,8 @@
 This repository will provide all platforms of **DeviceSupport** from **Xcode-Beta**.
 
 # Xcode version
-Oct 15, 2018
-Xcode 10.1 beta 3 - 10O45e
+June 3, 2019
+Xcode 11 beta  - 11M336W
 
 # platforms
 
@@ -28,6 +28,9 @@ Xcode 10.1 beta 3 - 10O45e
 	- [tvOS 12.1 (16J5575c)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.1%20(16J5575c))
 	- [tvOS 12.1 (16J5584c)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.1%20(16J5584c))
 	- [tvOS 12.1 (16J5600a)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.1%20(16J5600a))
+    - [tvOS 12.2](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.2)
+    - [tvOS 12.3](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/12.3)
+    - [tvOS 13.0](https://github.com/iOSTaiwan/DeviceSupport/tree/master/AppleTVOS.platform/13.0)
 
 - iOS
 	- [iOS 8.0](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/8.0)
@@ -56,6 +59,9 @@ Xcode 10.1 beta 3 - 10O45e
 	- [iOS 12.1 (16B5059d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.1%20(16B5059d))
 	- [iOS 12.1 (16B5068g)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.1%20(16B5068g))
 	- [iOS 12.1 (16B5084a)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.1%20(16B5084a))
+    - [iOS 12.2](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.2)
+    - [iOS 12.3](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/12.3)
+    - [iOS 13.0](https://github.com/iOSTaiwan/DeviceSupport/tree/master/iPhoneOS.platform/13.0)
 
 - watchOS
 	- [watchOS 2.0](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/2.0)
@@ -76,3 +82,5 @@ Xcode 10.1 beta 3 - 10O45e
 	- [watchOS 5.1 (16R5559d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.1%20(16R5559d))
 	- [watchOS 5.1 (16R5568d)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.1%20(16R5568d))
 	- [watchOS 5.1 (16R5584a)](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.1%20(16R5584a))
+    - [watchOS 5.2](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/5.2)
+    - [watchOS 6.0](https://github.com/iOSTaiwan/DeviceSupport/tree/master/WatchOS.platform/6.0)
